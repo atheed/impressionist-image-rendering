@@ -7,11 +7,12 @@ First, canny edgels are obtained for the input image(s) (complete with non-maxim
 Below are two images (both the originals, and the final impressionist renderings) that were used to test the renderer. They are provided here just to showcase a couple of sample results:
 
 ### Original Images
-![](/img/RV.jpg =500x300)
+<img src="/img/RV.jpg" style="width: 500px; height: 300px;"/>
 
+<img src="/img/orchid.jpg" style="width: 300px; height: 300px;"/>
 ![](/img/orchid.jpg =300x300)
 
 ### Impressionist Renderings
-![](/img/part6_RVoutput_rad1.png =500x300)
+<img src="/img/part6_RVoutput_rad1.png" style="width: 500px; height: 300px;"/>
 
-![](/img/part6_output_rad1.png =300x300)
+<img src="/img/part6_output_rad1.png" style="width: 300px; height: 300px;"/>
