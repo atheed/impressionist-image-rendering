@@ -9,9 +9,9 @@ Below are two images (both the originals, and the final impressionist renderings
 ### Original Images
 <img src="/img/RV.jpg" width="500px" height="300px"/>
 
-<img src="/img/orchid.jpg" width="300px" height="300px"/>
+<img src="/img/orchid.jpg" width="300px" height="250px"/>
 
 ### Impressionist Renderings
 <img src="/img/part6_RVoutput_rad1.png" width="500px" height="300px"/>
 
-<img src="/img/part6_output_rad1.png" width="300px" height="300px"/>
+<img src="/img/part6_output_rad1.png" width="300px" height="250px"/>
