@@ -3,6 +3,10 @@ Uses Canny edge detection to produce impressionist/painterly renderings of image
 
 First, canny edgels are obtained for the input image(s) (complete with non-maximal suppresion, hysteresis, etc.); then, paint strokes are made perpendicular to the edge directions. Additionally, a certain amount of random perturbations in paintstroke-angles was implemented, to give the results a more natural, impressionist feel. Various radii of paint strokes were tested before settling on radius=1 as a good choice.
 
+### Software
+Python
+NumPy/SciPy stack
+
 ## Results
 Below are two images (both the originals, and the final impressionist renderings) that were used to test the renderer. They are provided here just to showcase a couple of sample results:
 
