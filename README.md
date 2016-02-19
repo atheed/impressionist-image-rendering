@@ -1,5 +1,5 @@
 # Impressionist Image Rendering
-Uses Canny edge detection to produce impressionist/painterly renderings of images. 
+Uses **Canny edge detection** to produce impressionist/painterly renderings of images. 
 
 First, canny edgels are obtained for the input image(s) (complete with non-maximal suppresion, hysteresis, etc.); then, paint strokes are made perpendicular to the edge directions. Additionally, a certain amount of random perturbations in paintstroke-angles was implemented, to give the results a more natural, impressionist feel. Various radii of paint strokes were tested before settling on radius=1 as a good choice.
 
