@@ -10,7 +10,6 @@ Below are two images (both the originals, and the final impressionist renderings
 <img src="/img/RV.jpg" style="width: 500px; height: 300px;"/>
 
 <img src="/img/orchid.jpg" style="width: 300px; height: 300px;"/>
-![](/img/orchid.jpg =300x300)
 
 ### Impressionist Renderings
 <img src="/img/part6_RVoutput_rad1.png" style="width: 500px; height: 300px;"/>
