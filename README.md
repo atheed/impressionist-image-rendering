@@ -12,6 +12,6 @@ Below are two images (both the originals, and the final impressionist renderings
 ![Alt text](/img/orchid.jpg?raw=true "Orchid -- Original Image")
 
 ### Impressionist Renderings
-![Alt text](/img/part6_RVoutput_rad1.jpg?raw=true "RV -- Impressionist Rendering")
+![Alt text](/img/part6_RVoutput_rad1.png?raw=true "RV -- Impressionist Rendering")
 
-![Alt text](/img/part6_output_rad1.jpg?raw=true "Orchid -- Impressionist Rendering")
+![Alt text](/img/part6_output_rad1.png?raw=true "Orchid -- Impressionist Rendering")
